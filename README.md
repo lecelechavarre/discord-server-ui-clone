@@ -21,19 +21,19 @@ The Discord Server UI Clone is a web application designed to replicate the user 
 1. Clone the repository:
    ```bash
    git clone https://github.com/lecelechavarre/discord-server-ui-clone.git
-   
+   ```
 2. Navigate to the project directory:
-bash
+```bash
 cd discord-server-ui-clone
-
+```
 3. Install dependencies:
-bash
+```bash
 npm install
-
+```
 4. Start the application:
-bash
+```bash
 npm start
-
+```
 ## Contributing
 If you'd like to contribute to the project, please fork the repo and submit a pull request with your changes.
 
@@ -49,4 +49,4 @@ Special thanks to the open-source community and the creators of Discord for insp
 
 # Screenshots
 
-![Screenshot](assets/screenshot.png)
+![Screenshot]((https://github.com/lecelechavarre/discord-server-ui-clone/blob/main/assets/discord-clone.png))
