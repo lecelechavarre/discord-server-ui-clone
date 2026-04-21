@@ -3,6 +3,9 @@
 ## Overview
 The Discord Server UI Clone is a web application designed to replicate the user interface of Discord, a popular communication platform used by gamers and communities. This project aims to provide a lightweight and user-friendly alternative for users who appreciate the aesthetic and functionality of Discord's interface.
 
+## Screenshots
+![Discord Clone Screenshot](https://raw.githubusercontent.com/lecelechavarre/discord-server-ui-clone/main/assets/discord-clone.png)
+
 ## Features
 - **User Authentication**: Secure sign-up and login process.
 - **Server Creation**: Users can create personalized servers tailored to their needs.
@@ -42,6 +45,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 Special thanks to the open-source community and the creators of Discord for inspiration.
-
-## Screenshots
-![Discord Clone Screenshot](https://raw.githubusercontent.com/lecelechavarre/discord-server-ui-clone/main/assets/discord-clone.png)
