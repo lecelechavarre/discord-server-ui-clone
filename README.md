@@ -43,10 +43,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 Special thanks to the open-source community and the creators of Discord for inspiration.
 
-# Overview
-
-... [Existing content here] ...
-
-# Screenshots
-
-![Screenshot]((https://github.com/lecelechavarre/discord-server-ui-clone/blob/main/assets/discord-clone.png))
+## Screenshots
+![Discord Clone Screenshot](https://raw.githubusercontent.com/lecelechavarre/discord-server-ui-clone/main/assets/discord-clone.png)
